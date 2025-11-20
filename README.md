@@ -4,15 +4,13 @@ A simple and interactive project built with HTML, CSS, and JavaScript that allow
 ---
 
 ## 📌 Live Demo
-🔗 **Demo Online:**  
-https://your-demo-link.com  
-*(Replace with your real demo link)*
+🔗 **Demo Online:** 
+[🔗Click here to view the live demo](https://amirhosseinjamalian.github.io/random-color-generator/)
 
 ---
 
 ## 📷 Screenshot
-![Screenshot](https://raw.githubusercontent.com/amirhosseinjamalian/random-color-generator/refs/heads/main/Screenshot-random-color-generator.png)  
-*(Add a screenshot named `screenshot.png` in the root of your repository.)*
+![Screenshot](https://raw.githubusercontent.com/amirhosseinjamalian/random-color-generator/refs/heads/main/Screenshot-random-color-generator.png)
 
 ---
 
@@ -26,44 +24,52 @@ https://your-demo-link.com
 ---
 
 ## 📁 Project Structure
-project-folder/
-│── index.html
-│── style.css
-│── app.js
-└── screenshot.png
+```bash
+📁 project-folder
+│
+├── index.html
+├── style.css
+├── app.js
+└── README.md
+```
 
+
+## 🛠 Technologies Used
+
+- **HTML5 — Structure of the page**
+
+- **CSS3 — Styling and responsive design**
+
+- **Vanilla JavaScript — Interactive functionality**
 
 ---
 
 ## 🚀 How to Run
-1. Clone the repository:
+
 ```bash
-git clone https://github.com/YourUsername/random-color-generator.git
+# Clone the repository
+git clone https://github.com/amirhosseinjamalian/random-color-generator.git
 
+# Navigate into the folder
 cd random-color-generator
+# Open index.html in your browser
+```
+---
 
-🛠 Technologies Used
+##📜 Code Explanation
 
-HTML5
+- randnum() generates a number between 0 and 255.
 
-CSS3
+- rgbColor() returns an RGB color in string format.
 
-Vanilla JavaScript
+- First button updates box color, size, and styling.
 
-📜 Code Explanation
+- Second button updates the background color of the page.
 
-randnum() generates a number between 0 and 255.
+##🤝 Contributing
 
-rgbColor() returns an RGB color in string format.
+- Contributions, issues, and suggestions are always welcome!
 
-First button updates box color, size, and styling.
-
-Second button updates the background color of the page.
-
-🤝 Contributing
-
-Contributions, issues, and suggestions are always welcome!
-
-📝 License
+##📝 License
 
 This project is licensed under the MIT License.
