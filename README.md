@@ -68,7 +68,7 @@ cd random-color-generator
 
 ## 🤝 Contributing
 
-- Contributions, issues, and suggestions are always welcome!
+Contributions, issues, and suggestions are always welcome!
 
 ## 📝 License
 
