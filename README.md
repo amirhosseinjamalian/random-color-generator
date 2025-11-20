@@ -56,7 +56,7 @@ cd random-color-generator
 ```
 ---
 
-##📜 Code Explanation
+## 📜 Code Explanation
 
 - randnum() generates a number between 0 and 255.
 
@@ -66,10 +66,10 @@ cd random-color-generator
 
 - Second button updates the background color of the page.
 
-##🤝 Contributing
+## 🤝 Contributing
 
 - Contributions, issues, and suggestions are always welcome!
 
-##📝 License
+## 📝 License
 
 This project is licensed under the MIT License.
